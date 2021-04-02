@@ -37,7 +37,7 @@ I love playing ***rubik's cube***:
 
 ![](image.png)
 
-<img src="./image1.jpg" hight="50%" width="50%">  
+![](image1.jpg =300x300)
 
 ## Education
 
