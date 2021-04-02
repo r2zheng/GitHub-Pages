@@ -4,6 +4,10 @@ Go to the last section, click [here](#thats-all)
 
 Take a look at the [readme file](README.md)
 
+### Sections:
+- [Who am I](#who-am-i)
+- [Education](#education)
+
 ## Who am I?
 
 My name is **Rong Zheng**, and I am a ~~freshman~~ *sophomore* student.
@@ -11,7 +15,9 @@ My name is **Rong Zheng**, and I am a ~~freshman~~ *sophomore* student.
 #### My favorite sports are:
 
 - Cross Country
+  - 4-year experience
 - Badminton
+  - 10-year experience
 - Skiing
 - Swimming
 
@@ -25,11 +31,13 @@ My name is **Rong Zheng**, and I am a ~~freshman~~ *sophomore* student.
 
 > E = mc^2
 
-#### My favorrite game:
+#### My favorite game:
 
-I love playing rubik's cube:
+I love playing ***rubik's cube***:
 
 ![](image.png)
+
+<img src="./image1.jpg" hight="50%" width="50%">  
 
 ## Education
 
