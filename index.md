@@ -17,9 +17,9 @@ My name is **Rong Zheng**, and I am a ~~freshman~~ *sophomore* student.
 
 #### I can speak:
 
-- [ ] Chinese
-- [ ] English
-- [x] ~~Japanese~~
+- [x] Chinese
+- [x] English
+- [ ] ~~Japanese~~
 
 #### My favorite formula:
 
@@ -33,7 +33,16 @@ I love playing rubik's cube:
 
 ## Education
 
-I am a CSE student. I am good at C++. My favorite code:
+I am a CSE student.
+
+#### My CS Experience
+1. C++
+   - I am good at C++
+3. C#
+4. Java
+5. Python
+
+My favorite code:
 
 ```
 float InvSqrt (float x){
