@@ -1,5 +1,7 @@
 # Rong Zheng's Github Page
 
+![](WechatIMG134.jpeg)
+
 Go to the last section, click [here](#thats-all)
 
 Take a look at the [readme file](README.md)
