@@ -1,6 +1,6 @@
 # Rong Zheng's Github Page
 
-![](WechatIMG134.jpeg)
+<img src="WechatIMG134.jpeg" hight="30%" width="30%">
 
 Go to the last section, click [here](#thats-all)
 
